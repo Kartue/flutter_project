@@ -1,6 +1,6 @@
 # flutter_project
 
-A new Flutter project.
+A new Flutter project for mobile developer.
 
 ## Getting Started
 
